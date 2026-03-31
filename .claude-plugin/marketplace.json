@@ -12,8 +12,7 @@
       "description": "All web operations: search, fetch, CDP browser automation, site experience accumulation",
       "source": "./",
       "category": "productivity",
-      "tags": ["web", "browser", "cdp", "automation", "search"],
-      "skills": ["./"]
+      "tags": ["web", "browser", "cdp", "automation", "search"]
     }
   ]
 }
